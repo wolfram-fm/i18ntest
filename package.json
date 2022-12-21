@@ -1,0 +1,17 @@
+{
+  "name": "i18ntest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "i18n-js": "^4.2.2",
+    "typescript": "^4.9.4"
+  }
+}
